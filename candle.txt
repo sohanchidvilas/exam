@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>HTML img Tag</title>
+   </head>
+
+   <body>
+      <img src="Downloads/Image.jpeg" alt="candle" width="200"
+         height="80">
+   </body>
+</html>
